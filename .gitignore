@@ -1,0 +1,11 @@
+node_modules
+build
+dist
+._*
+.env
+.yarn
+.yarnrc.yml
+package-lock.json
+yarn.lock
+.pnp.cjs
+.pnp.loader.mjs
