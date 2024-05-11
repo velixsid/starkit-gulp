@@ -53,7 +53,7 @@
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "tw-accent": "^1.0.6",
-    "tw-relix": "^1.0.1",
+    "tw-relix": "^1.0.5",
     "webpack": "^5.70.0",
     "webpack-stream": "^7.0.0"
   }

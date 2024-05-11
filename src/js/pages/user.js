@@ -1,1 +1,0 @@
-console.log("script only user page") // example
